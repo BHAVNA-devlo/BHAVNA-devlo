@@ -12,6 +12,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=BHAVNA-devlo&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVNA-devlo&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🧠 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Bhavna_0606?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats"/>
+  <br/>
+  <img src="https://leetcode-stats-ninei07d4q.vercel.app/api?username=Bhavna_0606&show_unrated=true&theme=dark" alt="LeetCode Solved Stats"/>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BHAVNA-devlo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
