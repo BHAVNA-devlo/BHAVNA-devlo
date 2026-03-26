@@ -28,40 +28,36 @@
   </h2>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-
-### 💼 WHO AM I?
-
-🔹 **Innovative Problem Solver**  
-🔹 **Full Stack Developer**  
-🔹 **ML & AI Engineer**  
-🔹 **Data Science Enthusiast**  
-🔹 **Open Source Contributor**  
-
-**Location:** 🇮🇳 India  
-**Status:** Always Learning & Growing
-
-      </td>
-      <td width="50%">
-
-### 🌟 WHAT I DO BEST
-
-✅ **Build Scalable Applications**  
-✅ **Develop ML Models**  
-✅ **Design System Architecture**  
-✅ **Create Beautiful UIs**  
-✅ **Solve Complex Problems**  
-
-**Passion:** Transforming Ideas into Intelligent Solutions  
-**Mission:** Making Technology Impactful & Accessible
-
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" style="padding: 20px;">
+      <h3>💼 WHO AM I?</h3>
+      <p>
+        🔹 Innovative Problem Solver<br/>
+        🔹 Full Stack Developer<br/>
+        🔹 ML & AI Engineer<br/>
+        🔹 Data Science Enthusiast<br/>
+        🔹 Open Source Contributor<br/>
+        <br/>
+        <b>Location:</b> 🇮🇳 India<br/>
+        <b>Status:</b> Always Learning & Growing
+      </p>
+    </td>
+    <td width="50%" align="center" style="padding: 20px;">
+      <h3>🌟 WHAT I DO BEST</h3>
+      <p>
+        ✅ Build Scalable Applications<br/>
+        ✅ Develop ML Models<br/>
+        ✅ Design System Architecture<br/>
+        ✅ Create Beautiful UIs<br/>
+        ✅ Solve Complex Problems<br/>
+        <br/>
+        <b>Passion:</b> Transforming Ideas into Intelligent Solutions<br/>
+        <b>Mission:</b> Making Technology Impactful & Accessible
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
