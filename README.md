@@ -33,80 +33,34 @@
     <tr>
       <td width="50%">
 
-```python
-╔════════════════════════════════════════╗
-║      💼 WHO AM I?                      ║
-╠════════════════════════════════════════╣
-║                                        ║
-║  🔹 Innovative Problem Solver          ║
-║  🔹 Full Stack Developer               ║
-║  🔹 ML & AI Engineer                   ║
-║  🔹 Data Science Enthusiast            ║
-║  🔹 Open Source Contributor            ║
-║                                        ║
-╚════════════════════════════════════════╝
-```
+### 💼 WHO AM I?
+
+🔹 **Innovative Problem Solver**  
+🔹 **Full Stack Developer**  
+🔹 **ML & AI Engineer**  
+🔹 **Data Science Enthusiast**  
+🔹 **Open Source Contributor**  
+
+**Location:** 🇮🇳 India  
+**Status:** Always Learning & Growing
 
       </td>
       <td width="50%">
 
-```python
-╔════════════════════════════════════════╗
-║   🌟 WHAT I DO BEST                    ║
-╠════════════════════════════════════════╣
-║                                        ║
-║  ✅ Build Scalable Applications        ║
-║  ✅ Develop ML Models                  ║
-║  ✅ Design System Architecture         ║
-║  ✅ Create Beautiful UIs               ║
-║  ✅ Solve Complex Problems             ║
-║                                        ║
-╚════════════════════════════════════════╝
-```
+### 🌟 WHAT I DO BEST
+
+✅ **Build Scalable Applications**  
+✅ **Develop ML Models**  
+✅ **Design System Architecture**  
+✅ **Create Beautiful UIs**  
+✅ **Solve Complex Problems**  
+
+**Passion:** Transforming Ideas into Intelligent Solutions  
+**Mission:** Making Technology Impactful & Accessible
 
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-
-### 💻 About My Journey
-
-```
-class BhavnaSingh:
-    """A passionate developer crafting the future, one line of code at a time"""
-    
-    def __init__(self):
-        self.name = "Bhavna Singh"
-        self.title = "Full Stack Developer | ML Engineer | Data Scientist"
-        self.location = "🇮🇳 India"
-        self.education = "Tech Enthusiast | Continuous Learner"
-        
-    def skills(self):
-        return {
-            "Backend": ["Python", "Node.js", "Django", "FastAPI"],
-            "Frontend": ["React", "JavaScript", "HTML5", "CSS3"],
-            "ML/AI": ["TensorFlow", "Scikit-learn", "PyTorch", "Pandas"],
-            "Databases": ["PostgreSQL", "MongoDB", "MySQL"],
-            "DevOps": ["Docker", "Git", "AWS", "Linux"]
-        }
-    
-    def interests(self):
-        return [
-            "🤖 Artificial Intelligence",
-            "🚀 System Design",
-            "💾 Big Data Analytics",
-            "🎨 UI/UX Development",
-            "📱 Mobile App Development"
-        ]
-    
-    def mission(self):
-        return "Transform ideas into intelligent, scalable solutions ✨"
-
-# Let's build something amazing together! 🚀
-```
-
 </div>
 
 ---
