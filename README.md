@@ -272,7 +272,7 @@ class BhavnaSingh:
       <h3>🐦 Twitter Sentiment Analysis</h3>
       <p><b>Real-time sentiment analysis using NLP</b></p>
       <p>Python | NLP | TextBlob | Twitter API</p>
-      <a href="https://github.com/bhavnasingh/Twitter-sentimental-analysis">
+      <a href="https://github.com/BHAVNA-devlo/Twitter-sentimental-analysis">
         <img src="https://img.shields.io/badge/View%20Project-FF6B9D?style=for-the-badge" alt="View"/>
       </a>
     </td>
@@ -431,7 +431,7 @@ class BhavnaSingh:
 
 ### ⭐ Badges & Recognition
 
-[![GitHub Contributor](https://img.shields.io/badge/GitHub-Contributor-181717?style=flat-square&logo=github)](https://github.com/bhavnasingh)
+[![GitHub Contributor](https://img.shields.io/badge/GitHub-Contributor-181717?style=flat-square&logo=github)](https://github.com/BHAVNA-devlo)
 [![Open Source](https://img.shields.io/badge/OpenSource-Enthusiast-brightgreen?style=flat-square)](https://github.com)
 [![Coder Brain](https://img.shields.io/badge/Coder-Brain-9966FF?style=flat-square)]()
 [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Advanced-FF6B9D?style=flat-square)]()
@@ -468,7 +468,7 @@ class BhavnaSingh:
 ╚══════════════════════════════════════════╝
 ```
 
-👉 **[Visit My LeetCode Profile](https://leetcode.com/bhavnasingh/)**
+👉 **[Visit My LeetCode Profile](https://leetcode.com/BHAVNA-devlo/)**
 
 </div>
 
@@ -505,29 +505,29 @@ class BhavnaSingh:
 <table>
   <tr>
     <td align="center">
-      <a href="https://linkedin.com/in/bhavnasingh">
+      <a href="https://www.linkedin.com/in/bhavna-singh-45079a2a2">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://twitter.com/bhavnasingh">
+      <a href="https://twitter.com/BHAVNA_devlo">
         <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
       </a>
     </td>
     <td align="center">
-      <a href="mailto:your.email@gmail.com">
+      <a href="mailto:bhavnasingh2196@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/bhavnasingh">
+      <a href="https://github.com/BHAVNA-devlo">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://leetcode.com/bhavnasingh">
+      <a href="https://leetcode.com/BHAVNA-devlo">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
       </a>
     </td>
@@ -537,12 +537,12 @@ class BhavnaSingh:
       </a>
     </td>
     <td align="center">
-      <a href="https://yourportfolio.com">
+      <a href="https://bhavnadevlo.com">
         <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://instagram.com/bhavnasingh">
+      <a href="https://instagram.com/bhavna_devlo">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
       </a>
     </td>
@@ -556,8 +556,8 @@ class BhavnaSingh:
 ║                  📬 CONTACT INFO 📬                       ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
-║  📧 Email:          your.email@gmail.com                 ║
-║  💼 LinkedIn:       linkedin.com/in/bhavnasingh           ║
+║  📧 Email:          bhavnasingh2196@gmail.com             ║
+║  💼 LinkedIn:       linkedin.com/in/bhavna-singh-45079a2a2║
 ║  🐦 Twitter:        @bhavnasingh                          ║
 ║  🌐 Portfolio:      yourportfolio.com                     ║
 ║                                                           ║
